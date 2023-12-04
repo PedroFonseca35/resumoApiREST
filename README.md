@@ -1,7 +1,7 @@
 # resumoApiREST
 
 API REST e RESTful
-A API REST (Interface de Programação de Aplicações) é simplesmente conjunto de princípios arquiteturais para projetar serviços web. Ele utiliza os protocolos HTTP  e HTTPS.
+A API REST (Interface de Programação de Aplicações) é simplesmente um conjunto de princípios arquiteturais para projetar serviços web. Ele utiliza os protocolos HTTP e HTTPS.
 
 Diferenças entre REST e RESTful
 O termo RESTful refere-se à implementação real dos princípios REST, já o REST define os princípios. Uma API é considerada RESTful quando há princípios implementados, o principal deles é o: Verbos HTTP
