@@ -24,4 +24,5 @@ Os códigos de status HTTP são indicadores numéricos fornecidos em resposta a 
 401 Unauthorized: Indica que o cliente deve se autenticar para obter a resposta solicitada.
 404 Not Found: Indica que o recurso solicitado não foi encontrado no servidor.
 500 Internal Server Error: Indica um erro genérico no servidor que impede o processamento da solicitação.
+
 Autor do Resumo: [Pedro Henrique Félix da Fonseca] - [01528288]
